@@ -14,3 +14,5 @@ public class Average { 
         System.out.println("합: " + sum + ", 평균: " + sum/size);
     }
 }
+
+// edited by jayoonhub.
